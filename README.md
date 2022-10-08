@@ -1,6 +1,6 @@
 ## About
 
-Starter project Laravel^8.7 with adminLTE^3.2 UI template. It's is not a full convert from adminLTE html to blade component. Some sections have been adjusted and added pretty elements.
+Starter project Laravel^8.7 with adminLTE^3.2 UI template. It's is not a full convert from adminLTE html to blade component. Some sections have been adjusted and added pretty elements. Make your development activities easier and faster.
 
 ## Contributing
 
